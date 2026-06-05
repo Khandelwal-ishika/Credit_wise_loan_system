@@ -222,6 +222,6 @@ jupyter
 
 Ishika Kahndelwal
 - GitHub: [@Khandelwal-ishika](https://github.com/Khandelwal-ishika)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/ishikakhandelwal)
+- LinkedIn: https://linkedin.com/in/ishikakhandelwal
 
 ---
